@@ -62,5 +62,5 @@ This project is for educational and portfolio purposes only.
 **Fasil Rahman TK**  
 AI & ML Enthusiast | Python Developer
 
-[LinkedIn](https://linkedin.com/in/fasilrahmantk) | [GitHub](https://github.com/Fasiiltk)
+[LinkedIn](www.linkedin.com/in/fasil-rahman) | [GitHub](https://github.com/Fasiiltk)
 
